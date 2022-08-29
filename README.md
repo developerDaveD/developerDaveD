@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @developerDaveD
-- 👀 I’m interested in ... becoming a Junior Web Developer.
-- 🌱 I’m currently learning ... C#
+- 👀 I’m interested in ... Front end web development.
+- 🌱 I’m currently learning ... C# and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ddonatuccio@gmail.com
 
